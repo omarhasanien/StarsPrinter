@@ -1,7 +1,7 @@
 package edu.zuj.oop.week3.lecture1;
 
 
-public class Test2 {
+public class StarsPrinter {
     public static void main(String[] args) {
       
         int num =10;
